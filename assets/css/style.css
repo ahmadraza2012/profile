@@ -325,7 +325,11 @@ ul.list-check li::before {
 
 
 #home {
+<<<<<<< HEAD
 	background: url(../images/counter-bg.jpg) no-repeat center center;
+=======
+	background: url(../images/home2.jpg) no-repeat center center;
+>>>>>>> a6d93f221f89271911d7b99775d0b69a64b18a7e
 	-webkit-background-attachment: fixed;
     background-attachment: fixed;
 	background-color: #222;
@@ -852,7 +856,11 @@ Resume Timeline
 .timeline>li .timeline-panel {
     float: left;
     width: 43%;
+<<<<<<< HEAD
     text-align: left;
+=======
+    text-align: right;
+>>>>>>> a6d93f221f89271911d7b99775d0b69a64b18a7e
     border: 1px solid #eee;
     position: relative;
 }
